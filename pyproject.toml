@@ -1,0 +1,5 @@
+[project]
+name = "food-residency"
+version = "0.1.0"
+description = "Vendor contract management environment"
+requires-python = ">=3.9"
